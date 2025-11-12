@@ -27,32 +27,32 @@
   },
   "features": {
     "miniTag": "Áreas de Atuação",
-    "title": "Comprometimento e excelência em cada causa",
-    "subtitle": "Conheça as áreas em que atuamos e descubra como podemos defender seus direitos com estratégia e confiança.",
+    "title": "Atuação completa com profissionais especializados",
+    "subtitle": "Contamos com uma equipe de advogados experientes, cada um especializado em sua área, garantindo excelência e segurança em todas as demandas jurídicas.",
     "card1": {
-      "title": "Direito Civil",
-      "subtitle": "Soluções para conflitos e defesa dos seus direitos civis.",
+      "title": "Atuação Multidisciplinar",
+      "subtitle": "Nosso escritório reúne profissionais de diversas especialidades jurídicas, garantindo soluções completas para cada necessidade.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
-      "title": "Direito Penal",
-      "subtitle": "Atuação firme e estratégica em processos criminais. ",
+      "title": "Equipe Especializada",
+      "subtitle": "Cada caso é conduzido por advogados com experiência na área específica, assegurando precisão técnica e estratégia eficiente.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "Direito Trabalhista",
-      "subtitle": "Defesa dos direitos do trabalhador com ética e precisão.",
+      "title": "Atendimento em Todo o Brasil",
+      "subtitle": "Prestamos assessoria jurídica para clientes em diferentes regiões, com suporte presencial e digital.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
-      "title": "Direito Administrativo",
-      "subtitle": "Assessoria em questões públicas e responsabilidade estatal. ",
+      "title": "Comprometimento com Resultados",
+      "subtitle": "Trabalhamos com foco em alcançar soluções eficazes, sempre pautadas pela ética e pela confiança.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
