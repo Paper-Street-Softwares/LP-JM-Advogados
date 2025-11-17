@@ -70,8 +70,8 @@ export const infos = {
   domain: "jmadvogadosassociados.com.br", // Sem "www"
   phone: {
     ddd: "11",
-    firstPart: "99614", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "1110", // Apenas os 4 últimos números
+    firstPart: "5283", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "6288", // Apenas os 4 últimos números
   },
   phoneSecundario: {
     ddd: "A_Definir",
